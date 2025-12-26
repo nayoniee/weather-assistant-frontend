@@ -1,4 +1,4 @@
-<img width="3750" height="3750" alt="Mockup_no_bg" src="https://github.com/user-attachments/assets/6e8b71d0-cb45-4d29-8941-d9e13f97903a" />
+<img width="3750" height="3750" alt="Mockup_no_bg" src="https://github.com/user-attachments/assets/d24e881d-9952-402a-a2b2-071cc4b94054" />
 
 # 🔮 Lumee - 똑똑한 감성 날씨 어시스턴트
 
